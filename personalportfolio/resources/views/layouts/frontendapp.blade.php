@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Stowaa -  Ecommerce HTML Template</title>
+    <title>Stowaa -  Ecommerce</title>
     <link rel="shortcut icon" href="{{ asset('frontend/images/logo/favourite_icon_1.png')}}') }}">
 
     <!-- fraimwork - css include -->
@@ -195,7 +195,7 @@
                         <div class="col col-md-3">
                             <ul class="header_icons_group ul_li_right">
                                  <li>
-                                    <a href="#">Jon Doe</a>
+                                    <a href="#">RR107</a>
                                 </li>
                                 
                                 <li>
