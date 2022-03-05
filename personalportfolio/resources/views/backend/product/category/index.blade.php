@@ -87,7 +87,7 @@
                                 <th>Category</th>
                                 <th>Image</th>
                                 <th>Slug</th>
-                                <th>Actione</th>
+                                <th>Action</th>
                               </tr>
                             </thead>
                             <tbody>
